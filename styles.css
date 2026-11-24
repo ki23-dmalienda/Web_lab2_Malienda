@@ -33,8 +33,7 @@ header {
     font-weight: 700;
     color: #ffffff;
     background-color: #9d00ff;
-    border: 3px dashed #6a00ad;
-    border-radius: 12px;
+    clip-path: polygon(0 0, 100% 0, 92% 88%, 50% 100%, 8% 88%);
 }
 
 main {
